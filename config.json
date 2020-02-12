@@ -1,0 +1,106 @@
+{
+    "Applications":[
+        {
+            "appName" : "7-zip",
+            "appVersion" : "19.00",
+            "appDetectionVersion" : "19.00",
+            "appDetectionName" : "7-zip"
+        },
+        {
+            "appName" : "Adobe Acrobat Reader DC",
+            "appVersion" : "19.021.20058",
+            "appDetectionVersion" : "19.021.20058",
+            "appDetectionName" : "Adobe Acrobat Reader DC"
+        },
+        {
+            "appName" : "Adobe Flash Player ActiveX",
+            "appVersion" : "32.0.0.321",
+            "appDetectionVersion" : "32.0.0.321",
+            "appDetectionName" : "Adobe Flash Player*ActiveX"
+        },
+        {
+            "appName" : "Adobe Flash Player NPAPI",
+            "appVersion" : "32.0.0.321",
+            "appDetectionVersion" : "32.0.0.321",
+            "appDetectionName" : "Adobe Flash Player*NPAPI"
+        },
+        {
+            "appName" : "Adobe Flash Player PPAPI",
+            "appVersion" : "32.0.0.321",
+            "appDetectionVersion" : "32.0.0.321",
+            "appDetectionName" : "Adobe Flash Player*PPAPI"
+        },
+        {
+            "appName" : "Far Manager",
+            "appVersion" : "3.0.5511",
+            "appDetectionVersion" : "3.0.5511",
+            "appDetectionName" : "Far Manager"
+        },
+        {
+            "appName" : "FileZilla",
+            "appVersion" : "3.46.3",
+            "appDetectionVersion" : "3.46.3",
+            "appDetectionName" : "FileZilla"
+        },
+        {
+            "appName" : "Git",
+            "appVersion" : "2.25.0",
+            "appDetectionVersion" : "2.25.0",
+            "appDetectionName" : "Git"
+        },
+        {
+            "appName" : "K-Lite Codec Pack Standard",
+            "appVersion" : "15.3.2",
+            "appDetectionVersion" : "15.3.2",
+            "appDetectionName" : "K-Lite Codec Pack*Standard"
+        },
+        {
+            "appName" : "KeePass",
+            "appVersion" : "2.44",
+            "appDetectionVersion" : "2.44",
+            "appDetectionName" : "KeePass"
+        },
+        {
+            "appName" : "Mozilla Firefox ESR",
+            "appVersion" : "68.4.2",
+            "appDetectionVersion" : "68.4.2",
+            "appDetectionName" : "Mozilla Firefox*ESR"
+        },
+        {
+            "appName" : "Notepad++",
+            "appVersion" : "7.8.3",
+            "appDetectionVersion" : "7.8.3",
+            "appDetectionName" : "Notepad++"
+        },
+        {
+            "appName" : "PDF24 Creator",
+            "appVersion" : "9.0.1",
+            "appDetectionVersion" : "9.0.1",
+            "appDetectionName" : "PDF24 Creator"
+        },
+        {
+            "appName" : "PuTTY",
+            "appVersion" : "0.73",
+            "appDetectionVersion" : "0.73",
+            "appDetectionName" : "PuTTY"
+        },
+        {
+            "appName" : "VLC",
+            "appVersion" : "3.0.8",
+            "appDetectionVersion" : "3.0.8",
+            "appDetectionName" : "VLC"
+        },
+        {
+            "appName" : "WinRAR",
+            "appVersion" : "5.80",
+            "appDetectionVersion" : "5.71",
+            "appDetectionName" : "WinRAR"
+        },
+        {
+            "appName" : "Wireshark",
+            "appVersion" : "3.2.1",
+            "appDetectionVersion" : "3.2.1",
+            "appDetectionName" : "Wireshark"
+        }
+    ]
+}
